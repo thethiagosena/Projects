@@ -1,3 +1,6 @@
 [submodule "HTML/HomeSupplyKitchens"]
 	path = HTML/HomeSupplyKitchens
 	url = https://github.com/thethiagosena/HomeSupplyKitchens.git
+[submodule "C++/Random Fruits"]
+	path = C++/Random Fruits
+	url = https://github.com/thethiagosena/RandomFruits.git
